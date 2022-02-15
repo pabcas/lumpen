@@ -98,7 +98,7 @@ img:hover{opacity:0.75}
 .social_nav li.flickr a{ background-image:url("images/socials.png"); background-position:-60px -30px; background-size:270px 60px}
 .social_nav li.flickr a:hover{ background-position:-60px 0px; background-size:270px 60px; background-color:#e33b7e}
 .social_nav li.pinterest a{ background-image:url("images/socials.png"); background-position:-90px -30px; background-size:270px 60px}
-.social_nav li.pinterest a:hover{ background-position:-90px 0px; background-size:270px 60px; background-color:#cb2027}
+.social_nav li.pinterest a:hover{ background-position:-90px 0px; background-size:270px 60px; background-color:#ff93c9}
 .social_nav li.googleplus a{ background-image:url("images/socials.png"); background-position:-120px -30px; background-size:270px 60px}
 .social_nav li.googleplus a:hover{ background-position:-120px 0px; background-size:270px 60px; background-color:#d64b2e}
 .social_nav li.vimeo a{ background-image:url("images/socials.png"); background-position:-150px -30px; background-size:270px 60px}
